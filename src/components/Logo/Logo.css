@@ -1,0 +1,13 @@
+.mid{
+    margin-top: 50px;
+}
+h1{
+    color: aliceblue;
+  font-weight: 200;
+  font-style: oblique;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Tilt{
+    background: linear-gradient(89deg, #1698d4 50%, hsl(337, 76%, 65%) 100%);
+}
